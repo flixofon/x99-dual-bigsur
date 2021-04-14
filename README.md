@@ -1,4 +1,4 @@
-# OpenCore EFI for X99 Systems
+# OpenCore EFI for X99-Dual Systems
 
 ## System Specs:
 - ASUS Radeon RX Vega 56
