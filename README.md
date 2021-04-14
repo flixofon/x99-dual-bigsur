@@ -25,4 +25,6 @@ Nearly everything.
 ## Not working
 - Network Speed can be slower than usual
 
+### Disclaimer
+For educational use only
 
