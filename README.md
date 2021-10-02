@@ -1,5 +1,7 @@
 # OpenCore EFI for X99-Dual Systems
 
+Since I don't own the hardware of the project anymore and therefore can't update and test it, the project is no longer maintained. 
+
 ## System Specs:
 - ASUS Radeon RX Vega 56
 - 2X Xeon E5 2676V3
